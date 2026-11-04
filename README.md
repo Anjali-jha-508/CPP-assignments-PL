@@ -6,11 +6,13 @@
 
 * **Class:** *SOC-8 (F.Y) (2026-27)*
 
+* **Roll No:** *43*
+
 * **Department:** *CSE*
 
 * **Enrollment Number:** *ADT26SOCB0146*
 
-* **Course:** *Programming Language (C++)*
+* **Course:** *Programming Language (C++) : sem-I*
 
 * **Course Faculty:** *Prof. Sharayu Anap*
   
