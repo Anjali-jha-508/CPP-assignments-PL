@@ -29,3 +29,8 @@ int main() {
 return 0;
 }
 ```
+---
+### Output
+```txt
+Dog's Age = 5 years
+```
